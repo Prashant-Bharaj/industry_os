@@ -1,16 +1,10 @@
 # industry_os
+![language](https://img.shields.io/badge/language-dart-orange)
+![framework](https://img.shields.io/badge/framework-flutter-orange)
 
-A new Flutter application.
+- Uses various different UI elements
+- Also have dark and normal mode
+- It is not a working application, I made it just for practice purpose.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Demo
+![Finished App](blob/demo.gif)
